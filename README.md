@@ -1,2 +1,2 @@
 # array-generator
-Generator of arrays for testing algorithms
+Generator of arrays for testing algorithms.
